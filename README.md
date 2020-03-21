@@ -1,3 +1,4 @@
+[![](https://img.shields.io/badge/Plugin-Flink-brightgreen)](https://flink.apache.org/) [![](https://img.shields.io/badge/Plugin-Kafka-brightgreen)](http://kafka.apache.org/)
 # 基于Flink的用户行为分析(流式数据处理模块)
 业务对实时性要求较高，因此选用Flink作为流式数据处理的框架。项目中综合运用Flink的各种API，基于EventTime去处理基本的业务需求，并灵活地使用底层的processFunction，基于状态编程和CEP去处理更加复杂的情形。
 功能模块的情况：
