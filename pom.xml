@@ -21,6 +21,8 @@
         <module>NetworkTrafficAnalysis</module>
         <module>LoginFailDetect</module>
         <module>OrderTimeoutDetect</module>
+        <module>MarketAnalysis</module>
+        <module>TransactionMatchDetect</module>
     </modules>
 
     <dependencies>
