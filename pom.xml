@@ -23,6 +23,7 @@
         <module>OrderTimeoutDetect</module>
         <module>MarketAnalysis</module>
         <module>TransactionMatchDetect</module>
+        <module>RtcTailNumLimit</module>
     </modules>
 
     <dependencies>
